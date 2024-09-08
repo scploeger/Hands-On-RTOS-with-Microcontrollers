@@ -22,7 +22,8 @@ void OnProjectLoad (void) {
   //
   // User settings
   //
-  File.Open ("C:/projects/packtBookRTOS/freeRTOS_Nucleo767/Debug/freeRTOS_Nucleo767.elf");
+  //File.Open ("C:/projects/packtBookRTOS/freeRTOS_Nucleo767/Debug/freeRTOS_Nucleo767.elf");
+  File.Open ("C:\Users\Spencer\Documents\GitHub\packBookRTOS\Chapters5_6\Debug\Chapter5_main.elf");
 }
 
 /*********************************************************************
